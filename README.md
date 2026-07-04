@@ -84,8 +84,6 @@ Nie musisz instalować Pythona ani niczego dodatkowego — pobierasz gotowy plik
 
 ---
 
----
-
 ## 📄 Licencja
 
 Oprogramowanie **własnościowe** (proprietary) — **nie** jest to projekt
