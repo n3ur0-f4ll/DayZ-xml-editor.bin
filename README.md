@@ -87,6 +87,7 @@ Nie musisz instalować Pythona ani niczego dodatkowego — pobierasz gotowy plik
 - **Cofnij / Ponów** (`Ctrl+Z` / `Ctrl+Y`) dla każdej zmiany.
 - **Ciemny / jasny motyw** — przełącznik w menu **View**, zapamiętywany między
   uruchomieniami.
+- **Pasek dolny** pokazuje aktualnie wczytaną misję oraz wersję programu.
 - **Bezpieczny zapis** — zachowuje komentarze i formatowanie pliku; zmiana
   jednego pola daje jednoliniowy diff, w pełni czytelny dla silnika DayZ.
 
