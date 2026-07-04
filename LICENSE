@@ -1,0 +1,69 @@
+DayZ XML Editor — Software License Agreement
+Copyright (c) 2026 Johny Python ("JPython"). All rights reserved.
+
+This is a proprietary license. It is NOT an open-source license. Read it before
+downloading, installing, or using the software.
+
+1. DEFINITIONS
+   "Software" means the DayZ XML Editor application authored by JPython,
+   including its source code, compiled binaries, assets, and documentation,
+   excluding the Third-Party Components described in Section 6.
+   "Author" means the copyright holder named above.
+
+2. GRANT OF LICENSE
+   Subject to your compliance with this Agreement, the Author grants you a
+   personal, non-exclusive, non-transferable, revocable, royalty-free license to
+   download, install, and use the Software for your own personal and internal
+   purposes.
+
+3. RESTRICTIONS
+   You may NOT, in whole or in part:
+   (a) modify, adapt, translate, or create derivative works of the Software;
+   (b) reverse engineer, decompile, or disassemble the Software, or otherwise
+       attempt to derive its source code, except to the limited extent that this
+       restriction is expressly prohibited by applicable law;
+   (c) copy, publish, distribute, sublicense, rent, lease, lend, or sell the
+       Software, or make it available to any third party;
+   (d) remove, alter, or obscure any copyright, trademark, or other proprietary
+       notices contained in the Software.
+
+4. COMMERCIAL USE
+   Any commercial use, distribution, or sale of the Software, or of any product
+   or service that incorporates or is derived from it, requires the prior
+   written consent of the Author. Contact the Author to arrange a commercial
+   license.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. The Author retains all right, title, and
+   interest in and to the Software, including all intellectual property rights.
+   All rights not expressly granted in this Agreement are reserved by the Author.
+
+6. THIRD-PARTY COMPONENTS
+   The Software is built with and may be distributed together with third-party
+   open-source components (for example PySide6/Qt, lxml, and the Python runtime),
+   each of which is licensed under its own terms. Those components are NOT covered
+   by this Agreement; your rights and obligations with respect to them are
+   governed solely by their respective licenses. See THIRD_PARTY_NOTICES.md.
+   Nothing in this Agreement limits any rights you have under those licenses with
+   respect to those components.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using the Software and delete all copies in your
+   possession. Sections 5, 7, and 8 survive termination.
+
+10. NOT A GAME MOD LICENSE
+    DayZ and related trademarks are the property of Bohemia Interactive a.s. This
+    Software is an independent tool and is not affiliated with or endorsed by
+    Bohemia Interactive.
