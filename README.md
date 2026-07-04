@@ -84,43 +84,6 @@ Nie musisz instalować Pythona ani niczego dodatkowego — pobierasz gotowy plik
 
 ---
 
-## 🛠️ Uruchamianie ze źródeł (dla programistów)
-
-Wymaga Pythona 3.11+.
-
-```bash
-# Linux / macOS
-./run.sh                       # przy pierwszym uruchomieniu tworzy venv i instaluje zależności
-./run.sh path/to/types.xml
-
-# Windows
-run.bat
-run.bat path\to\types.xml
-```
-
-Ręcznie:
-
-```bash
-python -m venv .venv
-.venv/bin/pip install -e ".[dev]"     # Windows: .venv\Scripts\pip
-.venv/bin/python -m dayz_editor.app
-.venv/bin/python -m pytest             # testy (logika bez GUI)
-```
-
-### Architektura
-
-Kod jest podzielony na warstwy: rdzeń logiki (`dayz_editor/domain/`) nie zależy
-od GUI i jest testowalny bez ekranu; warstwa Qt (`dayz_editor/gui/`) korzysta z
-PySide6. GUI jest **generyczne i sterowane schematem** — jeden `EditorWidget`
-renderuje dowolny „płaski" plik CE na podstawie `EditorConfig`, więc kolejne
-pliki (types, events, …) to głównie nowy schemat, a nie nowy kod interfejsu.
-
-### Technologie
-
-[Python](https://www.python.org/) · [PySide6](https://doc.qt.io/qtforpython/)
-(Qt, LGPL) · [lxml](https://lxml.de/) · pakowanie binarek: PyInstaller +
-AppImage (GitHub Actions).
-
 ---
 
 ## 📄 Licencja
